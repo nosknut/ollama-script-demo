@@ -1,0 +1,15 @@
+- Here is a list of models that might be able to run on a less powerful system.
+- They are taken from this list: https://ollama.com/library
+- Search for new models here: https://ollama.com/search
+- 1b, 3b, 3.5b, 8b etc stands for x Billion parameters
+	- Higher numbers mean the model will be smarter and give better responses,
+		while also running slower and requiring a stronger PC.
+
+Model Name	Model Link
+------------------------------------------------------
+llama3.2:1b	https://ollama.com/library/llama3.2:1b
+llama3.2:3b	https://ollama.com/library/llama3.2:3b
+phi3.5:3.8b	https://ollama.com/library/phi3.5:3.8b
+llama3.1:8b	https://ollama.com/library/llama3.1:8b
+phi3:3.8b	https://ollama.com/library/phi3:3.8b
+phi3:14b	https://ollama.com/library/phi3:14b
